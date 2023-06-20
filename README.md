@@ -26,7 +26,7 @@ As we know it is a command line tool for Linux, so to activate the license open 
 4. Disconnect and Connect the VPN server
 To connect the remote VPN server and make your system shielded to browse the internet, you just need to run the given command in the terminal. The software will automatically choose the appropriate server to connect to:
 
-   expressvpn connect
+    `expressvpn connect`
 
 Whereas, those who want to connect to some particular location server, can first list what are the available ones.
 
@@ -46,7 +46,9 @@ Now, open your browser and start browsing the internet safely. And when your wor
 5. Update
 To install future updates for ExpressVPN, the users need to download its latest version from the official website to install again as we have shown in this tutorial.
 
-6. Uninstallation
+
+7. Uninstallation
 In case things are not going well with the software then no need to continue with it. Go to your Command terminal and run the given single command to completely uninstall EpressVPN from your Ubuntu 22.04/20.04 system.
 
-    sudo apt remove expressvpn --purge
+
+     `sudo apt remove expressvpn --purge`
